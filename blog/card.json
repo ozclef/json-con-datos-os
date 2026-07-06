@@ -1,0 +1,11 @@
+{
+  "title": "Mi proyecto",
+  "description": "Proyecto de chat P2P.",
+  "image": "img/chat.png",
+  "url": "https://...",
+  "tags": [
+    "javascript",
+    "webrtc",
+    "supabase"
+  ]
+}
